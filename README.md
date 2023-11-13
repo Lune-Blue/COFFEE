@@ -6,6 +6,7 @@ Overview of framework, COFFEEPOTs (COde Fixing with FEEdback via Preference-Opti
   <img src="./Framework_Overview.png" width="100%" height="80%">
 </p>
 
+## Release
 We will release our model checkpoint and dataset as soon as they are finalized.
 
 ## Point of contact
@@ -13,5 +14,5 @@ For any questions about the implementation or content of the paper, you could co
 ```
 lune-blue@yonsei.ac.kr
 kopf_yhs@yonsei.ac.kr
-
+mapoout@yonsei.ac.kr
 ```
