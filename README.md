@@ -3,5 +3,5 @@ the official repository for the paper "COFFEE: Boost Your CodeLLMs by Fixing Bug
 
 Overview of framework, COFFEEPOTs (COde Fixing with FEEdback via Preference-Optimized Tuning and Selection)
 <p align="center">
-  <img src="./Framework_Overview.pdf" width="100%" height="80%">
+  <embed src="Framework_Overview.pdf" width="2000px" height="800px" />
 </p>
