@@ -19,7 +19,7 @@ You can now access them via Hugging Face:
 - **[Coffee-Critic](https://huggingface.co/LangAGI-Lab/Coffee-critic)** – Baseline critic model trained for feedback generation  
 - **[Coffee-Editor](https://huggingface.co/LangAGI-Lab/Coffee-editor)** – Baseline Editor model trained for code generation  
 - **[Coffee-DPO](https://huggingface.co/LangAGI-Lab/Coffee-dpo)** – Critic model optimized through Direct Preference Optimization (DPO)  
-- **[Coffee-Selector](https://huggingface.co/LangAGI-Lab/Coffee-selector)** –  Selector model for feedback selection
+- **[Coffee-Selector](https://huggingface.co/LangAGI-Lab/Coffee-selector)** –  Selector model for choosing the most appropriate feedback
 
 
 ## Point of contact
