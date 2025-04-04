@@ -6,8 +6,21 @@ Overview of framework, COFFEEPOTs (COde Fixing with FEEdback via Preference-Opti
   <img src="./Framework_Overview.png" width="100%" height="80%">
 </p>
 
-## Release
-We will release our model checkpoint and dataset as soon as they are finalized.
+## 📦 Release
+
+We are excited to share our dataset and model checkpoints with the community!  
+You can now access them via Hugging Face:
+
+### 📚 Dataset
+- **[COFFEE Dataset](https://huggingface.co/datasets/LangAGI-Lab/COFFEE-Dataset)**  
+  A curated dataset for feedback-driven editing.
+
+### 🤖 Models
+- **[Coffee-Critic](https://huggingface.co/LangAGI-Lab/Coffee-critic)** – Baseline critic model trained for feedback generation  
+- **[Coffee-Editor](https://huggingface.co/LangAGI-Lab/Coffee-editor)** – Baseline Editor model trained for code generation  
+- **[Coffee-DPO](https://huggingface.co/LangAGI-Lab/Coffee-dpo)** – Critic model optimized through Direct Preference Optimization (DPO)  
+- **[Coffee-Selector](https://huggingface.co/LangAGI-Lab/Coffee-selector)** –  Selector model for feedback selection
+
 
 ## Point of contact
 For any questions about the implementation or content of the paper, you could contact us via the following email :)
